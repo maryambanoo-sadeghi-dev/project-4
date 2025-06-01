@@ -1,11 +1,15 @@
 # project-4
-this is full project with tailwind.
+
+This is my first experience with Tailwind.
+This project is fully responsive.
+
  - demo online :(https://maryambanoo-sadeghi-dev.github.io/project-4/)
+   ز
+![Image](https://github.com/user-attachments/assets/a41e899e-54c0-40fd-bc46-227aac9ae51e)
+
 ![Image](https://github.com/user-attachments/assets/7409a957-0a7a-4310-94c8-62628d4d18cd)
 
 ![Image](https://github.com/user-attachments/assets/78d20869-380d-4f0d-84c6-baaec43eef53)
-
-![Image](https://github.com/user-attachments/assets/a41e899e-54c0-40fd-bc46-227aac9ae51e)
 
 ![Image](https://github.com/user-attachments/assets/3f906274-f544-4ce1-8d40-d34624d6b8a9)
 
